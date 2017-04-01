@@ -12,11 +12,11 @@
 	<atom:link href="http://makerhub.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>http://makerhub.com.br/</link>
 	<description>Conhecimento Compartilhado</description>
-	<lastBuildDate>Thu, 02 Mar 2017 00:05:46 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Apr 2017 14:58:48 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<generator>https://wordpress.org/?v=4.7.3</generator>
 
 <image>
 	<url>http://makerhub.com.br/wp-content/uploads/cropped-favicon-32x32.png</url>
@@ -26,6 +26,81 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cursos de Eletrônica, Arduino e Robótica</title>
+		<link>http://makerhub.com.br/cursos-eletronica-arduino-robotica/</link>
+		<pubDate>Sat, 01 Apr 2017 14:58:48 +0000</pubDate>
+		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
+				<category><![CDATA[Cursos]]></category>
+
+		<guid isPermaLink="false">http://makerhub.com.br/?p=1478</guid>
+		<description><![CDATA[<p>&#160; O MakerHub começa a oferecer cursos particulares de Eletrônica Básica, Arduino (iniciante e avançado) e Robótica. Foco na prática (aprender fazendo) Totalmente flexível (você faz seu horário). Aulas individuais [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://makerhub.com.br/cursos-eletronica-arduino-robotica/">Cursos de Eletrônica, Arduino e Robótica</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img class="size-full wp-image-1479 aligncenter" src="http://makerhub.com.br/wp-content/uploads/curso-particular.png" alt="Eletrônica, Arduino e Robótica" width="940" height="788" srcset="http://makerhub.com.br/wp-content/uploads/curso-particular.png 940w, http://makerhub.com.br/wp-content/uploads/curso-particular-300x251.png 300w, http://makerhub.com.br/wp-content/uploads/curso-particular-768x644.png 768w, http://makerhub.com.br/wp-content/uploads/curso-particular-830x696.png 830w, http://makerhub.com.br/wp-content/uploads/curso-particular-230x193.png 230w, http://makerhub.com.br/wp-content/uploads/curso-particular-350x293.png 350w, http://makerhub.com.br/wp-content/uploads/curso-particular-480x402.png 480w" sizes="(max-width: 940px) 100vw, 940px" /></p>
+<p>&nbsp;</p>
+<p>O MakerHub começa a oferecer cursos particulares de Eletrônica Básica, Arduino (iniciante e avançado) e Robótica.</p>
+<ul>
+<li>Foco na prática (aprender fazendo)</li>
+<li>Totalmente flexível (você faz seu horário).</li>
+<li>Aulas individuais e de acordo com seu ritmo.</li>
+<li>Certificado de conclusão.</li>
+<li>Até 3x sem juros.</li>
+</ul>
+<h4>
+Entre em contato para mais detalhes: <a href="http://makerhub.com.br/contato/">enviar uma mensagem</a></h4>
+<hr />
+<h3>Alguns dos tópicos abordados nos cursos:</h3>
+<ul>
+<li>
+<h5>Eletrônica Básica:</h5>
+<ul>
+<li>Introdução aos conceitos básicos</li>
+<li>Lei de Ohm e utilização do multímetro</li>
+<li>Componentes discretos (principais tipos, funções e características)</li>
+<li>Funcionamento e aplicações dos semicondutores mais utilizados (diodo, LED e transistor)</li>
+<li>Fontes, baterias e reguladores de tensão</li>
+<li>Motores CC e servo motores (características e acionamentos)</li>
+<li>Álgebra booleana e portas lógicas (noções básicas)</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<h5>Arduino:</h5>
+<ul>
+<li>O que é o Arduino e o que dá para fazer com ele</li>
+<li>Características do hardware</li>
+<li>Características do ambiente de desenvolvimento</li>
+<li>Montagem de circuitos básicos em protoboard</li>
+<li>Conceitos básicas de programação (entradas e saídas)</li>
+<li>Operadores lógicos e matemáticos</li>
+<li>Estruturas condicionais e de repetição</li>
+<li>Arrays, ponteiros e funções</li>
+<li>Conceitos de programação orientada a objetos (classes, métodos, etc.)</li>
+<li>Importação e utilização de bibliotecas prontas</li>
+<li>Periféricos: PWM, ADC, UART, Timers, I2C e SPI</li>
+<li>Interrupções e otimizações de código</li>
+<li>Desenvolvimento de aplicações avançadas</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<h5>Robótica:</h5>
+<ul>
+<li>Tipos de sensores e exemplos de aplicações</li>
+<li>Características gerais dos elementos mecânicos de um robô</li>
+<li>Conceitos de torque e velocidade para dimensionamento de motores</li>
+<li>Desenvolvimento de um caso prático (robô seguidor de linha)</li>
+</ul>
+</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://makerhub.com.br/cursos-eletronica-arduino-robotica/">Cursos de Eletrônica, Arduino e Robótica</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Quais as vantagens em participar de um Makerspace?</title>
 		<link>http://makerhub.com.br/quais-as-vantagens-em-participar-de-um-makerspace/</link>
 		<pubDate>Wed, 01 Mar 2017 15:53:48 +0000</pubDate>

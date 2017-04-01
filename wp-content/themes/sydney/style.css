@@ -4,7 +4,7 @@ Theme URI: http://athemes.com/theme/sydney
 Author: aThemes
 Author URI: http://athemes.com
 Description: Sydney is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence. Sydney brings plenty of customization possibilities like access to all Google Fonts, full color control, layout control, logo upload, full screen slider, header image, sticky navigation and much more. Also, Sydney provides all the construction blocks you need to rapidly create an engaging front page.
-Version: 1.35
+Version: 1.37
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: sydney
@@ -837,6 +837,7 @@ Mobile navigation
 		position: absolute;
 		top:28px;
 		background-color: #1c1c1c;
+		margin-top: 15px;
 		z-index: 1000;
 	}
 	#mainnav-mobi ul {
@@ -1129,7 +1130,7 @@ Hero section
 }
 @-webkit-keyframes fadeInRightBig {
   from {
-    right: -99em;
+    right: -1200px;
   }
   to {
     right: 0;
@@ -1137,7 +1138,7 @@ Hero section
 }
 @keyframes fadeInRightBig {
   from {
-    right: -99em;
+    right: -1200px;
   }
   to {
     right: 0;
@@ -1697,15 +1698,16 @@ Bottom
 /*--------------------------------------------------------------
 Preloader
 --------------------------------------------------------------*/
+
 	.preloader {
 	    background: none repeat scroll 0 0 #fff;
 	    height: 100%;
 	    opacity: 1;
 	    position: fixed;
 	    text-align: center;
-	    transition: all 0.2s ease 0s;
+	    transition: opacity 0.2s ease 0s;
 	    width: 100%;
-	    z-index: 9999;
+	    z-index: 9999;	    
 	}
 	.preloader .spinner {
 	    height: 30px;
@@ -1884,7 +1886,7 @@ Panels
 	    display: inline-block;
 		width: 19%;
 		text-align: center;
-		margin-bottom: 30px;
+		margin: 15px 0;
 	}
 	.roll-client .client-item img {
 		max-width: 150px;
@@ -2986,6 +2988,71 @@ Panels
 	outline: none;
 }
 
+/* Lightbox video
+-------------------------------------------------------------- */
+.sydney-video .video-text,
+.sydney-video .toggle-popup, 
+.sydney-video .close-popup {
+	display: none;
+}
+.sydney-video.vid-lightbox .video-text {
+	display: block;
+	margin-bottom: 30px;
+}
+.sydney-video.vid-lightbox .video-text:empty {
+	margin-bottom: 0;
+}
+.sydney-video.vid-lightbox .popup-show .close-popup {
+    display: block;
+    position: absolute;
+    top: -30px;
+    right: -30px;
+    z-index: 12;
+    font-size: 20px;
+    cursor: pointer;
+    color: #fff;
+}
+.sydney-video.vid-lightbox .sydney-video-inner {
+	max-width: 720px;
+	margin: 0 auto;
+	position: relative;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	    -ms-transform: translateY(-50%);
+	        transform: translateY(-50%);
+}
+.sydney-video.vid-lightbox .video-overlay {
+	position: fixed;
+	top: 0;
+	left: -9999em;
+	height: 100%;
+	width: 100%;
+	z-index: 9998;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+.sydney-video.vid-lightbox .popup-show {
+	left: 0;
+}
+.sydney-video.vid-lightbox {
+	text-align: center;
+}
+.sydney-video.vid-lightbox .toggle-popup {
+    width: 60px;
+    height: 60px;
+    display: table;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 0 0 12px 0 rgba(83, 85, 93, 0.3);
+    border-radius: 50%;
+    line-height: 60px;
+    font-size: 28px;
+    color: #46444c;
+    transition: all 0.4s;
+}
+.sydney-video.vid-lightbox .toggle-popup:hover {
+	background-color: #46444c;
+	color: #fff;
+}
 /* Media Queries
 -------------------------------------------------------------- */
 	@media only screen and (min-width: 1930px) {
@@ -3007,9 +3074,6 @@ Panels
 	}
 	/* Smaller than standard 980 */
 	@media only screen and (max-width: 991px) {
-		.site-header.fixed {
-			position: static !important;
-		}
 		.parallax {
 			background-size: cover;
 			background-attachment: scroll;
@@ -3061,8 +3125,17 @@ Panels
 		.footer-widgets .widget {
 			margin-bottom: 50px;
 		}
+		.roll-client .client-item img {
+			max-width: 100%;
+  		}
+		.blog-post:nth-of-type(2n+1) {
+		    clear: left;
+		}  				
 	}
 	@media only screen and (max-width: 1024px) {
+		.site-header.fixed {
+			position: static !important;
+		}		
 		.slides-container .slide-item,
 		.panel-row-style {
 			background-attachment: scroll !important;
@@ -3122,6 +3195,16 @@ Panels
 			background-position: top center!important;
 		}
 	}
+
+	@media only screen and (max-width: 1399px) {
+		.site-header #mainnav ul li ul {
+		    right: 14px;
+		}
+		.site-header #mainnav ul li ul li ul {
+		    left: -100%;
+		}
+	}
+
 	/* All Mobile Sizes */
 	@media only screen and (max-width: 767px) {
 		.posts-layout {
@@ -3226,19 +3309,27 @@ Panels
 			font-size: 12px;
 		}
 		.text-slider .maintitle {
-			font-size: 20px;
+			font-size: 18px;
 		}
 		.text-slider .subtitle {
 			font-size: 14px;
 		}
 		.text-slider {
-			margin-bottom: 15px;
+			margin-bottom: 5px;
+		}
+		.text-slider .subtitle {
+			padding: 5px 0;
+		}
+		.button-slider {
+    		padding: 5px 15px;
+    		font-size: 11px;
 		}
 	}
 	@media only screen and (max-width: 320px) {
 		.text-slider {
 			margin-bottom: 0;
 		}
+
 	}
 	/* Center menu vertically */
 	@media screen and (min-width: 1025px) {
@@ -3250,4 +3341,11 @@ Panels
 			    -ms-flex-align: center;
 			        align-items: center;
 		}
-	}	
+	}
+	/* Mobile slider */
+	.mobile-slide {
+		display: none;
+	}
+	.sydney-hero-area {
+		overflow: hidden;
+	}
