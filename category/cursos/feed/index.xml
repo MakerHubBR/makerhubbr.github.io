@@ -12,11 +12,11 @@
 	<atom:link href="http://makerhub.com.br/category/cursos/feed/" rel="self" type="application/rss+xml" />
 	<link>http://makerhub.com.br/</link>
 	<description>Conhecimento Compartilhado</description>
-	<lastBuildDate>Sat, 01 Apr 2017 14:58:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 May 2017 00:12:59 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.3</generator>
+	<generator>https://wordpress.org/?v=4.7.4</generator>
 
 <image>
 	<url>http://makerhub.com.br/wp-content/uploads/cropped-favicon-32x32.png</url>
@@ -28,6 +28,7 @@
 	<item>
 		<title>Cursos de Eletrônica, Arduino e Robótica</title>
 		<link>http://makerhub.com.br/cursos-eletronica-arduino-robotica/</link>
+		<comments>http://makerhub.com.br/cursos-eletronica-arduino-robotica/#respond</comments>
 		<pubDate>Sat, 01 Apr 2017 14:58:48 +0000</pubDate>
 		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
 				<category><![CDATA[Cursos]]></category>
@@ -46,8 +47,7 @@
 <li>Certificado de conclusão.</li>
 <li>Até 3x sem juros.</li>
 </ul>
-<h4>
-Entre em contato para mais detalhes: <a href="http://makerhub.com.br/contato/">enviar uma mensagem</a></h4>
+<h4>Entre em contato para mais detalhes: <a href="http://makerhub.com.br/contato/">enviar uma mensagem</a></h4>
 <hr />
 <h3>Alguns dos tópicos abordados nos cursos:</h3>
 <ul>
@@ -73,7 +73,7 @@ Entre em contato para mais detalhes: <a href="http://makerhub.com.br/contato/">e
 <li>Características do hardware</li>
 <li>Características do ambiente de desenvolvimento</li>
 <li>Montagem de circuitos básicos em protoboard</li>
-<li>Conceitos básicas de programação (entradas e saídas)</li>
+<li>Conceitos básicos de programação (entradas e saídas)</li>
 <li>Operadores lógicos e matemáticos</li>
 <li>Estruturas condicionais e de repetição</li>
 <li>Arrays, ponteiros e funções</li>
@@ -99,6 +99,8 @@ Entre em contato para mais detalhes: <a href="http://makerhub.com.br/contato/">e
 </ul>
 <p>The post <a rel="nofollow" href="http://makerhub.com.br/cursos-eletronica-arduino-robotica/">Cursos de Eletrônica, Arduino e Robótica</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
 ]]></content:encoded>
-			</item>
+			<wfw:commentRss>http://makerhub.com.br/cursos-eletronica-arduino-robotica/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
 	</channel>
 </rss>
