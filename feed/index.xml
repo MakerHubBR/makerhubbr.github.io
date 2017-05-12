@@ -12,7 +12,7 @@
 	<atom:link href="http://makerhub.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>http://makerhub.com.br/</link>
 	<description>Conhecimento Compartilhado</description>
-	<lastBuildDate>Fri, 12 May 2017 20:14:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 May 2017 23:41:58 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -72,18 +72,21 @@
 		<category><![CDATA[Projetos]]></category>
 
 		<guid isPermaLink="false">http://makerhub.com.br/?p=1547</guid>
-		<description><![CDATA[<p>Já pensou em programar Arduino por blocos? Sim é possível fazer seus projetos com Arduino sem digitar uma linha de código! &#160; Características Programação simples e intuitiva, arrastando e soltando blocos [&#8230;]</p>
+		<description><![CDATA[<p>Já pensou em programar Arduino por blocos? Sim é possível fazer seus projetos com Arduino sem digitar uma linha de código! Clique na imagem para testar: &#160; Características Programação simples e [&#8230;]</p>
 <p>The post <a rel="nofollow" href="http://makerhub.com.br/programe-arduino-por-blocos/">Programe Arduino por Blocos</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
 ]]></description>
 				<content:encoded><![CDATA[<h2>Já pensou em programar Arduino por blocos?</h2>
 <p>Sim é possível fazer seus projetos com Arduino sem digitar uma linha de código!</p>
+<ul>
+<li><strong>Clique na imagem para testar:</strong></li>
+</ul>
 <p><a href="http://makerhub.com.br/blockly-mh-ino/blockly/apps/blocklymhino/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-1549 size-full" src="http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview.png" alt="Programe Arduino com o editor blockly-mh-ino" width="1044" height="548" srcset="http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview.png 1044w, http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview-300x157.png 300w, http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview-768x403.png 768w, http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview-1024x538.png 1024w, http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview-830x436.png 830w, http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview-230x121.png 230w, http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview-350x184.png 350w, http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview-480x252.png 480w" sizes="(max-width: 1044px) 100vw, 1044px" /></a></p>
 <p>&nbsp;</p>
 <h3>Características</h3>
 <ul>
 <li>Programação simples e intuitiva, arrastando e soltando blocos</li>
 <li>Gera código fonte totalmente compatível com o Arduino</li>
-<li>Blocos especiais para o <a href="https://github.com/MakerHubBR/mh001" target="_blank" rel="noopener noreferrer">Kit mh001</a> e outros produtos do MakerHub que estão por vir</li>
+<li>Blocos especiais para o <a href="http://makerhub.com.br/mh001/">Kit mh001</a> e outros produtos do MakerHub que estão por vir</li>
 <li>Alguns exemplos já prontos</li>
 <li>Projeto totalmente open source: <a href="https://github.com/MakerHubBR/blockly-mh-ino" target="_blank" rel="noopener noreferrer">repositório no GitHub</a></li>
 </ul>
@@ -93,7 +96,7 @@
 <li>Baixe este arquivo <a href="https://github.com/MakerHubBR/blockly-mh-ino/archive/master.zip" target="_blank" rel="noopener noreferrer">zip</a> <strong>(se usar o editor online e o upload manual, não é necessário).</strong></li>
 <li>Você pode abrir o editor de duas formas:
 <ul>
-<li><strong>Online:</strong> acessar este <a href="http://makerhub.com.br/blockly-mh-ino/blockly/apps/blocklymhino/" target="_blank" rel="noopener noreferrer">site</a></li>
+<li><strong>Online:</strong> acessar este <strong><a href="http://makerhub.com.br/blockly-mh-ino/blockly/apps/blocklymhino/" target="_blank" rel="noopener noreferrer">site</a></strong></li>
 <li><strong>Offline:</strong> na pasta que baixou o <em>&#8216;blockly-mh-ino&#8217;</em>, abrir o arquivo <code>blockly/apps/blocklymhino/index.html</code> no seu browser</li>
 </ul>
 </li>
