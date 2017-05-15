@@ -12,7 +12,7 @@
 	<atom:link href="http://makerhub.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>http://makerhub.com.br/</link>
 	<description>Conhecimento Compartilhado</description>
-	<lastBuildDate>Fri, 12 May 2017 23:41:58 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 May 2017 21:38:49 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -115,8 +115,16 @@
 <li>Você pode opcionalmente especificar a porta adicionando <code>--port=COM3</code> (ou <code>--port=/dev/ttyACM0</code> no Linux e Mac); se não fizer, o script vai tentar identificar automaticamente.</li>
 </ul>
 <p>&nbsp;</p>
+<hr />
+<h3>Ajude uma criança a aprender programação:</h3>
+<ul>
+<li>Apresente este <a href="https://blockly-games.appspot.com/" target="_blank" rel="noopener noreferrer"><strong>link</strong></a> para uma criança, ela vai aprender programação sozinha e intuitivamente: <strong><a href="https://blockly-games.appspot.com/" target="_blank" rel="noopener noreferrer">Blockly Games</a></strong></li>
+</ul>
+<hr />
+<p>&nbsp;</p>
 <h4>Gostaria de aprender mais sobre eletrônica, programação e robótica?</h4>
 <h4><a href="http://makerhub.com.br/cursos-eletronica-arduino-robotica/">Confira aqui nosso curso!</a></h4>
+<p>&nbsp;</p>
 <p>The post <a rel="nofollow" href="http://makerhub.com.br/programe-arduino-por-blocos/">Programe Arduino por Blocos</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://makerhub.com.br/programe-arduino-por-blocos/feed/</wfw:commentRss>
