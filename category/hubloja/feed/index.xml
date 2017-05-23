@@ -12,11 +12,11 @@
 	<atom:link href="http://makerhub.com.br/category/hubloja/feed/" rel="self" type="application/rss+xml" />
 	<link>http://makerhub.com.br/</link>
 	<description>Conhecimento Compartilhado</description>
-	<lastBuildDate>Sat, 13 May 2017 21:38:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 May 2017 18:26:17 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.4</generator>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
 
 <image>
 	<url>http://makerhub.com.br/wp-content/uploads/cropped-favicon-32x32.png</url>
@@ -32,6 +32,8 @@
 		<pubDate>Fri, 12 May 2017 20:13:15 +0000</pubDate>
 		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
 				<category><![CDATA[Hub/Loja]]></category>
+		<category><![CDATA[hub]]></category>
+		<category><![CDATA[pcb]]></category>
 
 		<guid isPermaLink="false">http://makerhub.com.br/?p=1567</guid>
 		<description><![CDATA[<p>Agora ficou mais fácil fazer seus protótipos de PCB Você já teve problemas na hora de prototipar? O MakerHub está oferecendo um jeito mais prático de fazer placas com qualidade profissional, [&#8230;]</p>

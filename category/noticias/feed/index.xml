@@ -12,11 +12,11 @@
 	<atom:link href="http://makerhub.com.br/category/noticias/feed/" rel="self" type="application/rss+xml" />
 	<link>http://makerhub.com.br/</link>
 	<description>Conhecimento Compartilhado</description>
-	<lastBuildDate>Sat, 13 May 2017 21:38:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 May 2017 18:26:17 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.4</generator>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
 
 <image>
 	<url>http://makerhub.com.br/wp-content/uploads/cropped-favicon-32x32.png</url>
@@ -32,6 +32,7 @@
 		<pubDate>Wed, 01 Mar 2017 15:53:48 +0000</pubDate>
 		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
 				<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[makerspace]]></category>
 
 		<guid isPermaLink="false">http://makerhub.com.br/?p=1440</guid>
 		<description><![CDATA[<p>Um Makerspace é um local totalmente pensado para diminuir as barreiras da inovação. A natureza interdisciplinar e capacitadora desses espaços podem ajudar a preparar a juventude para um futuro que ainda não [&#8230;]</p>
@@ -62,6 +63,15 @@
 		<pubDate>Wed, 01 Mar 2017 15:47:30 +0000</pubDate>
 		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
 				<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[curso]]></category>
+		<category><![CDATA[eletrônica]]></category>
+		<category><![CDATA[hub]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[makerspace]]></category>
+		<category><![CDATA[pcb]]></category>
+		<category><![CDATA[programação]]></category>
+		<category><![CDATA[robótica]]></category>
 
 		<guid isPermaLink="false">http://makerhub.com.br/?p=1436</guid>
 		<description><![CDATA[<p>MakerHub, o primeiro Makerspace de Marília &#8211; SP, será inaugurado em breve! Não deixe de seguir nossas redes sociais para ficar por dentro das notícias e novidades. O MakerHub será [&#8230;]</p>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>eletrônica &#8211; MakerHub</title>
+	<atom:link href="http://makerhub.com.br/tag/eletronica/feed/" rel="self" type="application/rss+xml" />
+	<link>http://makerhub.com.br/</link>
+	<description>Conhecimento Compartilhado</description>
+	<lastBuildDate>Tue, 23 May 2017 18:26:17 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+
+<image>
+	<url>http://makerhub.com.br/wp-content/uploads/cropped-favicon-32x32.png</url>
+	<title>eletrônica &#8211; MakerHub</title>
+	<link>http://makerhub.com.br/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cursos de Eletrônica, Arduino e Robótica</title>
+		<link>http://makerhub.com.br/cursos-eletronica-arduino-robotica/</link>
+		<comments>http://makerhub.com.br/cursos-eletronica-arduino-robotica/#respond</comments>
+		<pubDate>Sat, 01 Apr 2017 14:58:48 +0000</pubDate>
+		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
+				<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[curso]]></category>
+		<category><![CDATA[eletrônica]]></category>
+		<category><![CDATA[robótica]]></category>
+
+		<guid isPermaLink="false">http://makerhub.com.br/?p=1478</guid>
+		<description><![CDATA[<p>&#160; O MakerHub começa a oferecer cursos particulares de Eletrônica Básica, Arduino (iniciante e avançado) e Robótica. Foco na prática (aprender fazendo) Totalmente flexível (você faz seu horário). Aulas individuais [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://makerhub.com.br/cursos-eletronica-arduino-robotica/">Cursos de Eletrônica, Arduino e Robótica</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img class="size-full wp-image-1479 aligncenter" src="http://makerhub.com.br/wp-content/uploads/curso-particular.png" alt="Eletrônica, Arduino e Robótica" width="940" height="788" srcset="http://makerhub.com.br/wp-content/uploads/curso-particular.png 940w, http://makerhub.com.br/wp-content/uploads/curso-particular-300x251.png 300w, http://makerhub.com.br/wp-content/uploads/curso-particular-768x644.png 768w, http://makerhub.com.br/wp-content/uploads/curso-particular-830x696.png 830w, http://makerhub.com.br/wp-content/uploads/curso-particular-230x193.png 230w, http://makerhub.com.br/wp-content/uploads/curso-particular-350x293.png 350w, http://makerhub.com.br/wp-content/uploads/curso-particular-480x402.png 480w" sizes="(max-width: 940px) 100vw, 940px" /></p>
+<p>&nbsp;</p>
+<p>O MakerHub começa a oferecer cursos particulares de Eletrônica Básica, Arduino (iniciante e avançado) e Robótica.</p>
+<ul>
+<li>Foco na prática (aprender fazendo)</li>
+<li>Totalmente flexível (você faz seu horário).</li>
+<li>Aulas individuais e de acordo com seu ritmo.</li>
+<li>Certificado de conclusão.</li>
+<li>Até 3x sem juros.</li>
+</ul>
+<h4>Entre em contato para mais detalhes: <a href="http://makerhub.com.br/contato/">enviar uma mensagem</a></h4>
+<hr />
+<h3>Alguns dos tópicos abordados nos cursos:</h3>
+<ul>
+<li>
+<h5>Eletrônica Básica:</h5>
+<ul>
+<li>Introdução aos conceitos básicos</li>
+<li>Lei de Ohm e utilização do multímetro</li>
+<li>Componentes discretos (principais tipos, funções e características)</li>
+<li>Funcionamento e aplicações dos semicondutores mais utilizados (diodo, LED e transistor)</li>
+<li>Fontes, baterias e reguladores de tensão</li>
+<li>Motores CC e servo motores (características e acionamentos)</li>
+<li>Álgebra booleana e portas lógicas (noções básicas)</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<h5>Arduino:</h5>
+<ul>
+<li>O que é o Arduino e o que dá para fazer com ele</li>
+<li>Características do hardware</li>
+<li>Características do ambiente de desenvolvimento</li>
+<li>Montagem de circuitos básicos em protoboard</li>
+<li>Conceitos básicos de programação (entradas e saídas)</li>
+<li>Operadores lógicos e matemáticos</li>
+<li>Estruturas condicionais e de repetição</li>
+<li>Arrays, ponteiros e funções</li>
+<li>Conceitos de programação orientada a objetos (classes, métodos, etc.)</li>
+<li>Importação e utilização de bibliotecas prontas</li>
+<li>Periféricos: PWM, ADC, UART, Timers, I2C e SPI</li>
+<li>Interrupções e otimizações de código</li>
+<li>Desenvolvimento de aplicações avançadas</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<h5>Robótica:</h5>
+<ul>
+<li>Tipos de sensores e exemplos de aplicações</li>
+<li>Características gerais dos elementos mecânicos de um robô</li>
+<li>Conceitos de torque e velocidade para dimensionamento de motores</li>
+<li>Desenvolvimento de um caso prático (robô seguidor de linha)</li>
+</ul>
+</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://makerhub.com.br/cursos-eletronica-arduino-robotica/">Cursos de Eletrônica, Arduino e Robótica</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://makerhub.com.br/cursos-eletronica-arduino-robotica/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bem-vindo ao MakerHub</title>
+		<link>http://makerhub.com.br/bem-vindo-ao-makerhub/</link>
+		<comments>http://makerhub.com.br/bem-vindo-ao-makerhub/#respond</comments>
+		<pubDate>Wed, 01 Mar 2017 15:47:30 +0000</pubDate>
+		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
+				<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[curso]]></category>
+		<category><![CDATA[eletrônica]]></category>
+		<category><![CDATA[hub]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[makerspace]]></category>
+		<category><![CDATA[pcb]]></category>
+		<category><![CDATA[programação]]></category>
+		<category><![CDATA[robótica]]></category>
+
+		<guid isPermaLink="false">http://makerhub.com.br/?p=1436</guid>
+		<description><![CDATA[<p>MakerHub, o primeiro Makerspace de Marília &#8211; SP, será inaugurado em breve! Não deixe de seguir nossas redes sociais para ficar por dentro das notícias e novidades. O MakerHub será [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://makerhub.com.br/bem-vindo-ao-makerhub/">Bem-vindo ao MakerHub</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h3>MakerHub, o primeiro Makerspace de Marília &#8211; SP, será inaugurado em breve!</h3>
+<p>Não deixe de seguir nossas <strong><a href="http://makerhub.com.br/#sobre">redes sociais</a></strong> para ficar por dentro das notícias e novidades.</p>
+<p>O <strong>MakerHub</strong> será um espaço onde você vai encontrar uma infraestrutura preparada para a criação de projetos em áreas como eletrônica, robótica, programação e mecânica. Também serão oferecidos vários cursos para os membros, além de possibilitar um ótimo network com a comunidade maker local.</p>
+<p>Aproveite enquanto isso para conhecer mais sobre esse tal de <strong><a href="http://makerhub.com.br/entenda-o-movimento-maker/">Movimento Maker</a></strong> que está cada vez mais forte no Brasil e no mundo.</p>
+<p>&nbsp;</p>
+<p><iframe width="1170" height="658" src="https://www.youtube.com/embed/7HIL8K9-vkQ?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-size: 14pt;">Se você tem interesse em participar do nosso espaço, é importante que preencha este <strong><a href="http://makerhub.com.br/cadastro/">cadastro</a></strong> para ser avisado quando começarão as atividades e aproveitar as condições especiais.</span></p>
+<p>Navegou em nosso site, mas ainda tem dúvidas? Entre em <strong>contato <a href="http://makerhub.com.br/contato/">aqui</a>!</strong></p>
+<p>The post <a rel="nofollow" href="http://makerhub.com.br/bem-vindo-ao-makerhub/">Bem-vindo ao MakerHub</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://makerhub.com.br/bem-vindo-ao-makerhub/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

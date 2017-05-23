@@ -12,11 +12,11 @@
 	<atom:link href="http://makerhub.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>http://makerhub.com.br/</link>
 	<description>Conhecimento Compartilhado</description>
-	<lastBuildDate>Sat, 13 May 2017 21:38:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 May 2017 18:26:17 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.4</generator>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
 
 <image>
 	<url>http://makerhub.com.br/wp-content/uploads/cropped-favicon-32x32.png</url>
@@ -32,6 +32,8 @@
 		<pubDate>Fri, 12 May 2017 20:13:15 +0000</pubDate>
 		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
 				<category><![CDATA[Hub/Loja]]></category>
+		<category><![CDATA[hub]]></category>
+		<category><![CDATA[pcb]]></category>
 
 		<guid isPermaLink="false">http://makerhub.com.br/?p=1567</guid>
 		<description><![CDATA[<p>Agora ficou mais fácil fazer seus protótipos de PCB Você já teve problemas na hora de prototipar? O MakerHub está oferecendo um jeito mais prático de fazer placas com qualidade profissional, [&#8230;]</p>
@@ -70,6 +72,8 @@
 		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
 				<category><![CDATA[Curiosidades]]></category>
 		<category><![CDATA[Projetos]]></category>
+		<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[programação]]></category>
 
 		<guid isPermaLink="false">http://makerhub.com.br/?p=1547</guid>
 		<description><![CDATA[<p>Já pensou em programar Arduino por blocos? Sim é possível fazer seus projetos com Arduino sem digitar uma linha de código! Clique na imagem para testar: &#160; Características Programação simples e [&#8230;]</p>
@@ -137,6 +141,10 @@
 		<pubDate>Sat, 01 Apr 2017 14:58:48 +0000</pubDate>
 		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
 				<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[curso]]></category>
+		<category><![CDATA[eletrônica]]></category>
+		<category><![CDATA[robótica]]></category>
 
 		<guid isPermaLink="false">http://makerhub.com.br/?p=1478</guid>
 		<description><![CDATA[<p>&#160; O MakerHub começa a oferecer cursos particulares de Eletrônica Básica, Arduino (iniciante e avançado) e Robótica. Foco na prática (aprender fazendo) Totalmente flexível (você faz seu horário). Aulas individuais [&#8230;]</p>
@@ -214,6 +222,7 @@
 		<pubDate>Wed, 01 Mar 2017 15:53:48 +0000</pubDate>
 		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
 				<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[makerspace]]></category>
 
 		<guid isPermaLink="false">http://makerhub.com.br/?p=1440</guid>
 		<description><![CDATA[<p>Um Makerspace é um local totalmente pensado para diminuir as barreiras da inovação. A natureza interdisciplinar e capacitadora desses espaços podem ajudar a preparar a juventude para um futuro que ainda não [&#8230;]</p>
@@ -244,6 +253,7 @@
 		<pubDate>Wed, 01 Mar 2017 15:50:53 +0000</pubDate>
 		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
 				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[maker]]></category>
 
 		<guid isPermaLink="false">http://makerhub.com.br/?p=1438</guid>
 		<description><![CDATA[<p>Segundo a Wikipédia, o Movimento Maker é uma extensão da cultura Faça-Você-Mesmo ou, em inglês, Do-It-Yourself (ou simplesmente DIY). Esta cultura moderna tem em sua base a ideia de que pessoas comuns [&#8230;]</p>
@@ -278,6 +288,15 @@
 		<pubDate>Wed, 01 Mar 2017 15:47:30 +0000</pubDate>
 		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
 				<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[curso]]></category>
+		<category><![CDATA[eletrônica]]></category>
+		<category><![CDATA[hub]]></category>
+		<category><![CDATA[maker]]></category>
+		<category><![CDATA[makerspace]]></category>
+		<category><![CDATA[pcb]]></category>
+		<category><![CDATA[programação]]></category>
+		<category><![CDATA[robótica]]></category>
 
 		<guid isPermaLink="false">http://makerhub.com.br/?p=1436</guid>
 		<description><![CDATA[<p>MakerHub, o primeiro Makerspace de Marília &#8211; SP, será inaugurado em breve! Não deixe de seguir nossas redes sociais para ficar por dentro das notícias e novidades. O MakerHub será [&#8230;]</p>

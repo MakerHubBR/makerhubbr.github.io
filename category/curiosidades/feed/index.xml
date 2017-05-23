@@ -12,11 +12,11 @@
 	<atom:link href="http://makerhub.com.br/category/curiosidades/feed/" rel="self" type="application/rss+xml" />
 	<link>http://makerhub.com.br/</link>
 	<description>Conhecimento Compartilhado</description>
-	<lastBuildDate>Sat, 13 May 2017 21:38:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 May 2017 18:26:17 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.4</generator>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
 
 <image>
 	<url>http://makerhub.com.br/wp-content/uploads/cropped-favicon-32x32.png</url>
@@ -33,6 +33,8 @@
 		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
 				<category><![CDATA[Curiosidades]]></category>
 		<category><![CDATA[Projetos]]></category>
+		<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[programação]]></category>
 
 		<guid isPermaLink="false">http://makerhub.com.br/?p=1547</guid>
 		<description><![CDATA[<p>Já pensou em programar Arduino por blocos? Sim é possível fazer seus projetos com Arduino sem digitar uma linha de código! Clique na imagem para testar: &#160; Características Programação simples e [&#8230;]</p>
@@ -100,6 +102,7 @@
 		<pubDate>Wed, 01 Mar 2017 15:50:53 +0000</pubDate>
 		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
 				<category><![CDATA[Curiosidades]]></category>
+		<category><![CDATA[maker]]></category>
 
 		<guid isPermaLink="false">http://makerhub.com.br/?p=1438</guid>
 		<description><![CDATA[<p>Segundo a Wikipédia, o Movimento Maker é uma extensão da cultura Faça-Você-Mesmo ou, em inglês, Do-It-Yourself (ou simplesmente DIY). Esta cultura moderna tem em sua base a ideia de que pessoas comuns [&#8230;]</p>
