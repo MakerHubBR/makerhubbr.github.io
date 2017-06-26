@@ -12,11 +12,11 @@
 	<atom:link href="http://makerhub.com.br/tag/arduino/feed/" rel="self" type="application/rss+xml" />
 	<link>http://makerhub.com.br/</link>
 	<description>Conhecimento Compartilhado</description>
-	<lastBuildDate>Tue, 23 May 2017 18:26:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Jun 2017 15:03:33 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<generator>https://wordpress.org/?v=4.8</generator>
 
 <image>
 	<url>http://makerhub.com.br/wp-content/uploads/cropped-favicon-32x32.png</url>
@@ -26,6 +26,96 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Curso ESPECIAL de Robótica</title>
+		<link>http://makerhub.com.br/curso-especial-robotica/</link>
+		<comments>http://makerhub.com.br/curso-especial-robotica/#respond</comments>
+		<pubDate>Mon, 26 Jun 2017 14:00:25 +0000</pubDate>
+		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
+				<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[curso]]></category>
+		<category><![CDATA[robótica]]></category>
+
+		<guid isPermaLink="false">http://makerhub.com.br/?p=1519</guid>
+		<description><![CDATA[<p>A robótica é algo cada vez mais frequente em nosso cotidiano, dominar os conhecimentos envolvidos nesta ciência é uma habilidade que sem dúvidas é um diferencial. Ao contrário do que [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://makerhub.com.br/curso-especial-robotica/">Curso ESPECIAL de Robótica</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img class="aligncenter size-full wp-image-1597" src="http://makerhub.com.br/wp-content/uploads/curso-especial-robotica.png" alt="Curso Especial de Robótica" width="940" height="546" srcset="http://makerhub.com.br/wp-content/uploads/curso-especial-robotica.png 940w, http://makerhub.com.br/wp-content/uploads/curso-especial-robotica-300x174.png 300w, http://makerhub.com.br/wp-content/uploads/curso-especial-robotica-768x446.png 768w, http://makerhub.com.br/wp-content/uploads/curso-especial-robotica-830x482.png 830w, http://makerhub.com.br/wp-content/uploads/curso-especial-robotica-230x134.png 230w, http://makerhub.com.br/wp-content/uploads/curso-especial-robotica-350x203.png 350w, http://makerhub.com.br/wp-content/uploads/curso-especial-robotica-480x279.png 480w" sizes="(max-width: 940px) 100vw, 940px" /></p>
+<p>A robótica é algo cada vez mais frequente em nosso cotidiano, dominar os conhecimentos envolvidos nesta ciência é uma habilidade que sem dúvidas é um diferencial. Ao contrário do que muitos pensam, a robótica não é algo muito complexo e é até mesma introduzida em alguns programas escolares, pois apresenta diversos benefícios que estimulam e complementam o aprendizado de crianças.</p>
+<p>Com este curso você vai aprender desde conceitos básicos de eletricidade e eletrônica a até programar seu próprio robô (montado por você mesmo durante o curso). A carga horária é pensada para que não seja um curso muito extenso, mas que ainda seja suficiente para que você tenha autonomia em aprimorar seus conhecimentos depois, pois todos os principais fundamentos serão abordados e observados na prática (aprender fazendo).</p>
+<p>&nbsp;</p>
+<h3>Características do curso:</h3>
+<ul>
+<li><strong>Nesta VERSÃO ESPECIAL do curso você GANHA o robô montado no curso!</strong></li>
+<li><strong>Você vai montar seu próprio robô, vai aprender a programá-lo e ele será seu.</strong></li>
+<li>Carga horária: 60 horas.</li>
+<li>Totalmente flexível (você faz seu horário).</li>
+<li>Aulas individuais e de acordo com seu ritmo.</li>
+<li><strong>Presencial: <a href="/#sidebar-footer">MakerHub Marília</a>.</strong></li>
+<li>Certificado de conclusão.</li>
+<li>Até 3x sem juros.</li>
+</ul>
+<p>&nbsp;</p>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td style="border-color: #b9d9eb; background-color: #b9d9eb;">
+<h3 style="text-align: center;"><span style="color: #7951a1;">! CONDIÇÕES ESPECIAIS E VAGAS LIMITADAS !</span></h3>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong><span style="color: #333333;">Entre em contato para mais detalhes:</span> <a href="http://makerhub.com.br/contato/">enviar uma mensagem</a></strong></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3>Alguns dos tópicos abordados no curso:</h3>
+<ul>
+<li>
+<h5>Eletrônica Básica:</h5>
+<ul>
+<li>Introdução aos conceitos básicos</li>
+<li>Lei de Ohm e utilização do multímetro</li>
+<li>Componentes discretos (principais tipos, funções e características)</li>
+<li>Funcionamento e aplicações dos semicondutores mais utilizados (diodo, LED e transistor)</li>
+<li>Fontes, baterias e reguladores de tensão</li>
+<li>Motores CC (características e acionamentos)</li>
+<li>Montagem de placas eletrônicas</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<h5>Arduino:</h5>
+<ul>
+<li>O que é o Arduino e o que dá para fazer com ele</li>
+<li>Características do hardware</li>
+<li>Características do ambiente de desenvolvimento</li>
+<li>Conceitos básicos de programação (entradas e saídas)</li>
+<li>Operadores lógicos e matemáticos</li>
+<li>Estruturas condicionais e de repetição</li>
+<li>Conceitos de programação orientada a objetos (classes, métodos, etc.)</li>
+<li>Periféricos: PWM, ADC e UART</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<h5>Robótica:</h5>
+<ul>
+<li>Tipos de sensores e exemplos de aplicações</li>
+<li>Características gerais dos elementos mecânicos de um robô</li>
+<li>Conceitos de torque e velocidade para dimensionamento de motores</li>
+<li>Desenvolvimento de um caso prático (robô seguidor de linha)</li>
+</ul>
+</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://makerhub.com.br/curso-especial-robotica/">Curso ESPECIAL de Robótica</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://makerhub.com.br/curso-especial-robotica/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Programe Arduino por Blocos</title>
 		<link>http://makerhub.com.br/programe-arduino-por-blocos/</link>
 		<comments>http://makerhub.com.br/programe-arduino-por-blocos/#respond</comments>
@@ -37,15 +127,15 @@
 		<category><![CDATA[programação]]></category>
 
 		<guid isPermaLink="false">http://makerhub.com.br/?p=1547</guid>
-		<description><![CDATA[<p>Já pensou em programar Arduino por blocos? Sim é possível fazer seus projetos com Arduino sem digitar uma linha de código! Clique na imagem para testar: &#160; Características Programação simples e [&#8230;]</p>
+		<description><![CDATA[<p>Já pensou em programar Arduino por blocos? Sim é possível fazer seus projetos com Arduino sem digitar uma linha de código! Teste abaixo ou clique neste link para abrir em uma [&#8230;]</p>
 <p>The post <a rel="nofollow" href="http://makerhub.com.br/programe-arduino-por-blocos/">Programe Arduino por Blocos</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
 ]]></description>
 				<content:encoded><![CDATA[<h2>Já pensou em programar Arduino por blocos?</h2>
 <p>Sim é possível fazer seus projetos com Arduino sem digitar uma linha de código!</p>
 <ul>
-<li><strong>Clique na imagem para testar:</strong></li>
+<li><strong>Teste abaixo ou clique neste <a href="http://makerhub.com.br/blockly-mh-ino/blockly/apps/blocklymhino/" target="_blank" rel="noopener noreferrer">link</a> para abrir em uma nova aba:</strong></li>
 </ul>
-<p><a href="http://makerhub.com.br/blockly-mh-ino/blockly/apps/blocklymhino/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-1549 size-full" src="http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview.png" alt="Programe Arduino com o editor blockly-mh-ino" width="1044" height="548" srcset="http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview.png 1044w, http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview-300x157.png 300w, http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview-768x403.png 768w, http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview-1024x538.png 1024w, http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview-830x436.png 830w, http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview-230x121.png 230w, http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview-350x184.png 350w, http://makerhub.com.br/wp-content/uploads/blockly-mh-ino-preview-480x252.png 480w" sizes="(max-width: 1044px) 100vw, 1044px" /></a></p>
+<p><iframe src ="http://makerhub.com.br/blockly-mh-ino/blockly/apps/blocklymhino/" width="100%" height="500"></iframe></p>
 <p>&nbsp;</p>
 <h3>Características</h3>
 <ul>

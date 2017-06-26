@@ -1,6 +1,13 @@
 .so-widget-sow-social-media-buttons-flat-a2f3d481e302 .social-media-button-container {
   zoom: 1;
   text-align: right;
+  /*
+    &:after {
+        content:"";
+        display:inline-block;
+        width:100%;
+    }
+    */
 }
 .so-widget-sow-social-media-buttons-flat-a2f3d481e302 .social-media-button-container:before {
   content: '';
@@ -22,9 +29,11 @@
   color: #ffffff !important;
 }
 .so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-facebook.ow-button-hover:hover {
+  color: #ffffff;
+}
+.so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-facebook.ow-button-hover:hover {
   background: #4060a4;
   border-bottom-color: #4060a4;
-  color: #ffffff;
 }
 .so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-twitter {
   color: #ffffff !important;
@@ -37,9 +46,11 @@
   color: #ffffff !important;
 }
 .so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-twitter.ow-button-hover:hover {
+  color: #ffffff;
+}
+.so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-twitter.ow-button-hover:hover {
   background: #8ac6f3;
   border-bottom-color: #8ac6f3;
-  color: #ffffff;
 }
 .so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-envelope {
   color: #ffffff !important;
@@ -52,9 +63,11 @@
   color: #ffffff !important;
 }
 .so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-envelope.ow-button-hover:hover {
+  color: #ffffff;
+}
+.so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-envelope.ow-button-hover:hover {
   background: #a9cdea;
   border-bottom-color: #a9cdea;
-  color: #ffffff;
 }
 .so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-linkedin {
   color: #ffffff !important;
@@ -67,9 +80,11 @@
   color: #ffffff !important;
 }
 .so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-linkedin.ow-button-hover:hover {
+  color: #ffffff;
+}
+.so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-linkedin.ow-button-hover:hover {
   background: #0184c8;
   border-bottom-color: #0184c8;
-  color: #ffffff;
 }
 .so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-github {
   color: #ffffff !important;
@@ -82,9 +97,11 @@
   color: #ffffff !important;
 }
 .so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-github.ow-button-hover:hover {
+  color: #ffffff;
+}
+.so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-github.ow-button-hover:hover {
   background: #2a2a2b;
   border-bottom-color: #2a2a2b;
-  color: #ffffff;
 }
 .so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-youtube {
   color: #ffffff !important;
@@ -97,9 +114,11 @@
   color: #ffffff !important;
 }
 .so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-youtube.ow-button-hover:hover {
+  color: #ffffff;
+}
+.so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button-youtube.ow-button-hover:hover {
   background: #d83f32;
   border-bottom-color: #d83f32;
-  color: #ffffff;
 }
 .so-widget-sow-social-media-buttons-flat-a2f3d481e302 .sow-social-media-button {
   font-size: 1em;

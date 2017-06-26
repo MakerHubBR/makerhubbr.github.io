@@ -4,7 +4,7 @@ Theme URI: http://athemes.com/theme/sydney
 Author: aThemes
 Author URI: http://athemes.com
 Description: Sydney is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence. Sydney brings plenty of customization possibilities like access to all Google Fonts, full color control, layout control, logo upload, full screen slider, header image, sticky navigation and much more. Also, Sydney provides all the construction blocks you need to rapidly create an engaging front page.
-Version: 1.39
+Version: 1.40
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: sydney
@@ -2959,7 +2959,69 @@ Panels
 	.roll-team .team-content .name {
 		color: #d65050;
 	}
-
+/* Woocommerce basic - full styles in wc.css
+-------------------------------------------------------------- */
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button {
+	background-color: #d65050;
+}
+.cart-contents {
+	position: relative;
+}
+.cart-contents .fa,
+.header-account .fa {
+	font-size: 18px;
+}
+.cart-amount {
+    background-color: #d65050;
+    font-size: 12px;
+    display: block;
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+    border-radius: 50%;
+    top: -10px;
+    position: absolute;
+    color: #fff;
+    right: -18px;
+    text-align: center;
+}
+.woocommerce ul.products li.product .woocommerce-LoopProduct-link p {
+	color: #767676;
+}
+ol.flex-control-nav.flex-control-thumbs {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0 -3px;
+}
+ol.flex-control-nav.flex-control-thumbs li img {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+   cursor: pointer;
+}
+ol.flex-control-nav.flex-control-thumbs li {
+    width: 33.333%;
+    display: inline-block;
+    padding: 3px;
+    vertical-align: middle;
+}
+ol.flex-control-nav.flex-control-thumbs li img:not(.flex-active) {
+    opacity: 0.6;
+}
+.woocommerce ul#shipping_method {
+	display: table;
+	margin: 0 auto;
+	text-align: left;
+}
+.woocommerce ul#shipping_method li {
+	padding: 0;
+}
 /* Core video
 -------------------------------------------------------------- */
 .wp-custom-header video {
@@ -3062,6 +3124,27 @@ Panels
 	background-color: #46444c;
 	color: #fff;
 }
+
+/*--------------------------------------------------------------
+Elementor and Beaver Builder
+--------------------------------------------------------------*/
+.page-template-page_front-page.elementor-page .page-wrap .content-wrapper,
+.page-template-page_front-page.fl-builder .page-wrap .content-wrapper {
+	width: 100%;
+	padding: 0 15px;
+}
+.fl-widget .widgettitle,
+div[class*="elementor-widget-wp-widget-sydney"] h5 {
+	text-align: center;
+	margin-bottom: 50px;
+	position: relative;
+	font-weight: 600;
+	line-height: normal;
+	text-transform: uppercase;
+	padding-bottom: 10px;
+	font-size: 32px;
+}
+
 /* Media Queries
 -------------------------------------------------------------- */
 	@media only screen and (min-width: 1930px) {
