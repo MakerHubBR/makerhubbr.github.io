@@ -12,11 +12,11 @@
 	<atom:link href="http://makerhub.com.br/tag/robotica/feed/" rel="self" type="application/rss+xml" />
 	<link>http://makerhub.com.br/</link>
 	<description>Conhecimento Compartilhado</description>
-	<lastBuildDate>Mon, 26 Jun 2017 15:03:33 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Sep 2017 15:54:19 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8</generator>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
 
 <image>
 	<url>http://makerhub.com.br/wp-content/uploads/cropped-favicon-32x32.png</url>
