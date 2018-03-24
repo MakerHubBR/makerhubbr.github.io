@@ -12,7 +12,7 @@
 	<atom:link href="http://makerhub.com.br/category/curiosidades/feed/" rel="self" type="application/rss+xml" />
 	<link>http://makerhub.com.br/</link>
 	<description>Conhecimento Compartilhado</description>
-	<lastBuildDate>Thu, 09 Nov 2017 13:18:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Mar 2018 14:04:57 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -83,51 +83,13 @@
 <hr />
 <h3>Ajude uma criança a aprender programação:</h3>
 <ul>
-<li>Apresente este <a href="https://blockly-games.appspot.com/" target="_blank" rel="noopener noreferrer"><strong>link</strong></a> para uma criança, ela vai aprender programação sozinha e intuitivamente: <strong><a href="https://blockly-games.appspot.com/" target="_blank" rel="noopener noreferrer">Blockly Games</a></strong></li>
+<li>Apresente o <strong><a href="https://blockly-games.appspot.com/" target="_blank" rel="noopener noreferrer">Blockly Games</a></strong> para uma criança, ela vai aprender programação sozinha e intuitivamente.</li>
 </ul>
 <hr />
-<p>&nbsp;</p>
-<h4>Gostaria de aprender mais sobre eletrônica, programação e robótica?</h4>
-<h4><a href="http://makerhub.com.br/cursos-eletronica-arduino-robotica/">Confira aqui nosso curso!</a></h4>
-<p>&nbsp;</p>
+<a href="http://makerhub.com.br/kleber-lima-da-silva/" target="_blank"></a></p>
 <p>The post <a rel="nofollow" href="http://makerhub.com.br/programe-arduino-por-blocos/">Programe Arduino por Blocos</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://makerhub.com.br/programe-arduino-por-blocos/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Entenda o Movimento Maker</title>
-		<link>http://makerhub.com.br/entenda-o-movimento-maker/</link>
-		<comments>http://makerhub.com.br/entenda-o-movimento-maker/#respond</comments>
-		<pubDate>Wed, 01 Mar 2017 15:50:53 +0000</pubDate>
-		<dc:creator><![CDATA[Kleber Lima da Silva]]></dc:creator>
-				<category><![CDATA[Curiosidades]]></category>
-		<category><![CDATA[maker]]></category>
-
-		<guid isPermaLink="false">http://makerhub.com.br/?p=1438</guid>
-		<description><![CDATA[<p>Segundo a Wikipédia, o Movimento Maker é uma extensão da cultura Faça-Você-Mesmo ou, em inglês, Do-It-Yourself (ou simplesmente DIY). Esta cultura moderna tem em sua base a ideia de que pessoas comuns [&#8230;]</p>
-<p>The post <a rel="nofollow" href="http://makerhub.com.br/entenda-o-movimento-maker/">Entenda o Movimento Maker</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>Segundo a <a href="https://pt.wikipedia.org/wiki/Movimento_Maker" target="_blank">Wikipédia</a>, o Movimento Maker é uma extensão da cultura Faça-Você-Mesmo ou, em inglês, Do-It-Yourself (ou simplesmente DIY). Esta cultura moderna tem em sua base a ideia de que pessoas comuns podem construir, consertar, modificar e fabricar os mais diversos tipos de objetos e projetos com suas próprias mãos. Outra nomenclatura usada é &#8220;Cultura Maker&#8221;.</p>
-<p>Em geral, esta comunidade baseia-se no princípio de compartilhamento e utiliza tecnologias open source, tanto software como hardware. Pessoas que estão ligadas a este movimento são chamadas de Makers que possuem interesses típicos em atividades que incluem tecnologias tais como a eletrônica, a robótica, a impressão 3D, e o uso de ferramentas/maquinários CNC, assim como atividades mais tradicionais tais como trabalho em metais, madeiras, e, principalmente, seu antecessor, as artes tradicionais e artesanato.</p>
-<p><img class="size-full wp-image-1460 aligncenter" src="http://makerhub.com.br/wp-content/uploads/soldando-placa.jpg" alt="Soldando placa eletrônica" width="640" height="426" srcset="http://makerhub.com.br/wp-content/uploads/soldando-placa.jpg 640w, http://makerhub.com.br/wp-content/uploads/soldando-placa-300x200.jpg 300w, http://makerhub.com.br/wp-content/uploads/soldando-placa-230x153.jpg 230w, http://makerhub.com.br/wp-content/uploads/soldando-placa-350x233.jpg 350w, http://makerhub.com.br/wp-content/uploads/soldando-placa-480x320.jpg 480w, http://makerhub.com.br/wp-content/uploads/soldando-placa-272x182.jpg 272w" sizes="(max-width: 640px) 100vw, 640px" /></p>
-<p>&nbsp;</p>
-<p>Esta cultura tem um foco forte em usar e aprender habilidades práticas e aplicá-las aos projetos de referência, ou seja, o compartilhamento de conhecimento está essencialmente presente.</p>
-<p>&nbsp;</p>
-<p>Ainda é importante chamar a atenção para as grandes inovações que surgem de grupos de Makers ou também de projetos que são feitos de forma colaborativa. Alguns exemplos:</p>
-<ul>
-<li><a href="https://ioton.cc/plataforma-ton" target="_blank">Plataforma TON</a> &#8211; prototipação eletrônica [100% brasileira]<img class="wp-image-1459 size-thumbnail alignleft" src="http://makerhub.com.br/wp-content/uploads/placa-ton-150x150.png" alt="Placa TON" width="150" height="150" /></li>
-<li><a href="https://wikihouse.cc/" target="_blank">The WikiHouse</a> &#8211; casa open source</li>
-<li><a href="https://www.arduino.cc/" target="_blank">Arduino</a> &#8211; plataforma de prototipação eletrônica</li>
-<li><a href="https://atom.io/" target="_blank">Atom</a> &#8211; editor de texto hackeável</li>
-<li><a href="http://www.freecadweb.org/" target="_blank">FreeCAD</a> &#8211; software CAD open source</li>
-<li><a href="http://kicad-pcb.org/" target="_blank">KiCad</a> &#8211; CAD para eletrônica</li>
-</ul>
-<p>&nbsp;</p>
-<h4>Se você tem interesse nesse movimento, comece seguir o MakerHub nas <a href="http://makerhub.com.br/#sobre">redes sociais</a> e fique ligado que em breve você poderá estar inserido neste ecossistema, participando do MakerHub (<a href="http://makerhub.com.br/cadastro/">saiba como aqui</a>).</h4>
-<p>The post <a rel="nofollow" href="http://makerhub.com.br/entenda-o-movimento-maker/">Entenda o Movimento Maker</a> appeared first on <a rel="nofollow" href="http://makerhub.com.br/">MakerHub</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://makerhub.com.br/entenda-o-movimento-maker/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
