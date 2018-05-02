@@ -38,11 +38,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://makerhub.com.br/tag/makerspace/</loc>
-  <lastmod>2018-03-24T14:19:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
   <loc>http://makerhub.com.br/programe-arduino-por-blocos/</loc>
   <lastmod>2018-03-24T14:19:40+00:00</lastmod>
   <priority>0.64</priority>
@@ -59,11 +54,6 @@
 </url>
 <url>
   <loc>http://makerhub.com.br/?ref=blockly-mh-ino</loc>
-  <lastmod>2018-03-24T14:19:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://makerhub.com.br/tag/maker/</loc>
   <lastmod>2018-03-24T14:19:40+00:00</lastmod>
   <priority>0.64</priority>
 </url>
